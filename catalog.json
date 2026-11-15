@@ -1,0 +1,14 @@
+[
+  {
+    "id": "equipment",
+    "name": "Equipment Request Form",
+    "description": "Standard request for hardware, cables, or workspace gear.",
+    "file": "templates/equipment.json"
+  },
+  {
+    "id": "travel",
+    "name": "Local Travel Voucher",
+    "description": "Reimbursement claim for local mileage and parking.",
+    "file": "templates/travel.json"
+  }
+]
